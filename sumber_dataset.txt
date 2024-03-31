@@ -24,5 +24,21 @@ Sumber Dataset
  
  - Journal 7 :
  
- -non journal:
- https://data.mendeley.com/datasets/fwcj7stb8r/1 
+ - Journal 8 :
+ https://www.kaggle.com/minhhuy2810/rice-diseases-image-
+ - Journal 9 :
+
+ - Journal 10 :
+ 
+ - Journal 11 :
+https://www.kaggle.com/c/paddy-disease-classification/
+ https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking/#files
+ - Journal 12 :
+
+ - Journal 13 :
+ https://data.mendeley.com/datasets/fwcj7stb8r/1
+ - Journal 14 :
+
+- Journal 15 :
+
+- Journal 16 :
