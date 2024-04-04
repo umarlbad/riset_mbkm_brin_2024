@@ -1,44 +1,51 @@
 # Sumber dataset berdasarkan jurnal referensi untuk Klasifikasi Penyakit Daun Padi berbagai referensi model dari Metode Deep Learning
 Sumber Dataset
- - Juref 1:
+ - Referensi 1: 
+http://www.mdpi.com/1424-8220/20/3/578/s1
+
+ - Referensi 2:
  https://www.kaggle.com/datasets/adefiqri12/riceleafsv3
  https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
  
- - Juref 2:
- http://www.mdpi.com/1424-8220/20/3/578/s1
- - Journal 1:
+ - Referensi 3:
  https://www.kaggle.com/c/paddy-disease-classification/
  https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking/#files
  https://archive.ics.uci.edu/datasets?search=Rice%20Leaf%20Diseases
- - Journal 2 :
+ - Referensi 4 :
  https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset
- - Journal 3 :
+ - Referensi 5 :
  
- - Journal 4:
+ - Referensi 6:
  https://www.kaggle.com/datasets/shayanriyaz/riceleafs
  https://www.kaggle.com/datasets/olyadgetch/wheat-leaf-dataset
  https://www.forestryimages.org/browse/detail.cfm?imgnum=5410673
- - Journal 5 :
+ - Referensi 7 :
  
- - Journal 6 :
+ - Referensi 8 :
  
- - Journal 7 :
+ - Referensi 9 :
  
- - Journal 8 :
- https://www.kaggle.com/minhhuy2810/rice-diseases-image-
- - Journal 9 :
+ - Referensi 10  :
 
- - Journal 10 :
- 
- - Journal 11 :
+ - Referensi 11 :
 https://www.kaggle.com/c/paddy-disease-classification/
  https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking/#files
- - Journal 12 :
+ - Referensi 12 :
 
- - Journal 13 :
+ - Referensi 13 :
  https://data.mendeley.com/datasets/fwcj7stb8r/1
- - Journal 14 :
+ - Referensi 14 :
 
-- Journal 15 :
+ - Referensi 15 :
 
-- Journal 16 :
+ - Referensi 16 :
+ https://www.kaggle.com/minhhuy2810/rice-diseases-image-
+ - Referensi 17 :
+
+ - Referensi 18 :
+
+ - Referensi 19 :
+
+- Referensi 20 :
+https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
+https://www.kaggle.com/datasets/shayanriyaz/riceleafs
