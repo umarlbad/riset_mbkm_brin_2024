@@ -45,7 +45,7 @@ https://www.kaggle.com/c/paddy-disease-classification/
  - Referensi 18 :
 
  - Referensi 19 :
-
+http://bcch.ahnw.gov.cn/Right.aspx
 - Referensi 20 :
 https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
 https://www.kaggle.com/datasets/shayanriyaz/riceleafs
